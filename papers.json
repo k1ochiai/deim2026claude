@@ -1,0 +1,12 @@
+[
+  {
+    "authors": "Keiichi Ochiai, Masayuki Terada, Makoto Hanashima, Hiroaki Sano and Yuichiro Usuda",
+    "title": "Detection of Non-designated Evacuation Shelters from Real-time Population Dynamics using Autoencoder-based Anomaly Detection",
+    "journal": "ACM Transactions on Spatial Algorithms and Systems, Vol. 10, Issue 3, Article No. 29, pp. 1-23"
+  },
+  {
+    "authors": "Keiichi Ochiai, Masayuki Terada, Hiroaki Sano, Makoto Hanashima and Yuichiro Usuda",
+    "title": "Anomaly Detection for Population Dynamics using Autoencoder Leveraging Periodic Residual Component in Disaster Situations",
+    "conference": "GeoAI '23: Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery, pp. 34-42, 2023"
+  }
+]
